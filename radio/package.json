@@ -1,0 +1,15 @@
+{
+  "name": "bots",
+  "version": "2.1.4",
+  "description": "A Waiting Room Bot ala Tomato",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tomato#6966",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.3.3",
+    "discord.js": "^12.5.1"
+  }
+}
